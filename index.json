@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 277033215,
+      "usedBytes": 281387565,
       "full": false
     }
   ],
@@ -714,8 +714,22 @@
       "addedAt": "2026-11-25T13:12:19.851Z",
       "updatedAt": "2026-11-25T13:12:19.851Z",
       "manifest": "manifests/c5156ee2-3260-4a26-9c5c-216a3b592493.json"
+    },
+    {
+      "id": "59b5f84d-0b6d-412a-b2ce-c5f4d142584d",
+      "kind": "audio",
+      "title": "Gopikamma",
+      "artist": "Chitra",
+      "album": "Mukunda (2014)",
+      "duration": 260,
+      "mime": "audio/mpeg",
+      "bytes": 4264940,
+      "sha256": "194266bcb5a7e05f5f236a8f6f0aadb880a69a5c6e648b1c2b209e8fadde9a6d",
+      "addedAt": "2026-11-25T13:12:19.083Z",
+      "updatedAt": "2026-11-25T13:12:19.083Z",
+      "manifest": "manifests/59b5f84d-0b6d-412a-b2ce-c5f4d142584d.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:30:17.940Z"
+  "updatedAt": "2026-11-25T13:30:36.676Z"
 }
