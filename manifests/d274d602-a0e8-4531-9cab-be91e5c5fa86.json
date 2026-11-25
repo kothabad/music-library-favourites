@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "d274d602-a0e8-4531-9cab-be91e5c5fa86",
+  "media": {
+    "name": "Ekkada Ekkada-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 6038955,
+    "sha256": "48f8cda591971b57452bd653a5fa66b9474c122314214ff9821739df267ca464",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/d2/d274d602-a0e8-4531-9cab-be91e5c5fa86/media.0",
+        "bytes": 6038955,
+        "sha": "8c348a1b460f22687b281148d2a3b7d2eee7bcae"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 36063,
+    "sha256": "13cecafb20f781406344998a1a9ae9c97f5ccaf4bfcbe2f3ab86f21368041525",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/d2/d274d602-a0e8-4531-9cab-be91e5c5fa86/cover.0",
+        "bytes": 36063,
+        "sha": "615a93b0b55a8a050be196a89dee2c9b6c2801c0"
+      }
+    ]
+  }
+}
