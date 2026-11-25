@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "7a1650c6-97bd-4d49-991e-9da824245b55",
+  "media": {
+    "name": "Brathakaali-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 5319326,
+    "sha256": "792259ee30d9ac931043068252946f40479e04fc9380200e6e55336a75a8fe89",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/7a/7a1650c6-97bd-4d49-991e-9da824245b55/media.0",
+        "bytes": 5319326,
+        "sha": "5d03adcd305d7b8635ca0e9e83859ad698266ed6"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 56938,
+    "sha256": "b69ae5657352ad74e336a7ada410fc1417833db7df7605bcf7a1da75697fbcae",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/7a/7a1650c6-97bd-4d49-991e-9da824245b55/cover.0",
+        "bytes": 56938,
+        "sha": "371a85adaf324cb1f6767659ec27399d663c6653"
+      }
+    ]
+  }
+}
