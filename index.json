@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 109756497,
+      "usedBytes": 119494784,
       "full": false
     }
   ],
@@ -252,8 +252,22 @@
       "addedAt": "2026-11-25T13:12:18.996Z",
       "updatedAt": "2026-11-25T13:12:18.996Z",
       "manifest": "manifests/742d0e17-e1aa-4588-9ca7-7f438da4a4e0.json"
+    },
+    {
+      "id": "7f330251-6b9b-47aa-b73c-c639163671a9",
+      "kind": "audio",
+      "title": "04 -  Aamani [www.SenSongsMp3.co]",
+      "artist": "S.P. Balu, Chorus",
+      "album": "Geetanjali (1989)",
+      "duration": 278,
+      "mime": "audio/mpeg",
+      "bytes": 9717792,
+      "sha256": "7559b7436f45c30862fec053ceb1d901b3ad7fee1c128be8d5b1a66c142a0885",
+      "addedAt": "2026-11-25T13:12:19.061Z",
+      "updatedAt": "2026-11-25T13:12:19.061Z",
+      "manifest": "manifests/7f330251-6b9b-47aa-b73c-c639163671a9.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:19:52.265Z"
+  "updatedAt": "2026-11-25T13:20:14.487Z"
 }
