@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "26a4f106-a0b0-4f68-8207-aff37dcb1268",
+  "media": {
+    "name": "Hartal Mridang Hukat Hakat.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 6812453,
+    "sha256": "bc0c9ef21e079277594b1452a8dc34938da73df722c3e97dc7fe4477349a7d53",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/26/26a4f106-a0b0-4f68-8207-aff37dcb1268/media.0",
+        "bytes": 6812453,
+        "sha": "eff0b50c57f97b2aef1db7f2a56c7f2f822147f9"
+      }
+    ]
+  }
+}
