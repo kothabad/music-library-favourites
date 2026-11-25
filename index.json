@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 236868957,
+      "usedBytes": 241586179,
       "full": false
     }
   ],
@@ -602,8 +602,22 @@
       "addedAt": "2026-11-25T13:12:18.714Z",
       "updatedAt": "2026-11-25T13:12:18.714Z",
       "manifest": "manifests/944f6a57-0da0-4ece-b984-0403906f3fce.json"
+    },
+    {
+      "id": "8f7fb393-6040-48db-ab6a-1aac8396767d",
+      "kind": "audio",
+      "title": "Dole Dole-SenSongsMp3.Co",
+      "artist": "Mahesh Babu,Ileana D Cruz",
+      "album": "Pokiri(2006)",
+      "duration": 283,
+      "mime": "audio/mpeg",
+      "bytes": 4627182,
+      "sha256": "3412953c3958c44d6230c14c3851daf02cd83b344ac09d0979747310ca9861c5",
+      "addedAt": "2026-11-25T13:12:19.674Z",
+      "updatedAt": "2026-11-25T13:12:19.674Z",
+      "manifest": "manifests/8f7fb393-6040-48db-ab6a-1aac8396767d.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:27:39.317Z"
+  "updatedAt": "2026-11-25T13:27:57.578Z"
 }

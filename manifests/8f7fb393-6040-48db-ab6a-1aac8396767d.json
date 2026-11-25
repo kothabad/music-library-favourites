@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "8f7fb393-6040-48db-ab6a-1aac8396767d",
+  "media": {
+    "name": "Dole Dole-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4627182,
+    "sha256": "3412953c3958c44d6230c14c3851daf02cd83b344ac09d0979747310ca9861c5",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/8f/8f7fb393-6040-48db-ab6a-1aac8396767d/media.0",
+        "bytes": 4627182,
+        "sha": "ca76168e445b2de0e4384357cc790f03dbb2e842"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 90040,
+    "sha256": "a5d2333f3b77a2b035c84bf3b5fdd6a2b1e857b0d0b4cb21c28e1af398530bcb",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/8f/8f7fb393-6040-48db-ab6a-1aac8396767d/cover.0",
+        "bytes": 90040,
+        "sha": "336f1a7b759602b877ce8691b7c2e977058466ad"
+      }
+    ]
+  }
+}
