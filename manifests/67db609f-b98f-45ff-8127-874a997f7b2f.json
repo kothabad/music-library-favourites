@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "67db609f-b98f-45ff-8127-874a997f7b2f",
+  "media": {
+    "name": "Gala Gala-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4504278,
+    "sha256": "394912d05ebf0e978729c71f05c76e8262274a87670a3eb1dc4ecf25b17ec05d",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/67/67db609f-b98f-45ff-8127-874a997f7b2f/media.0",
+        "bytes": 4504278,
+        "sha": "5989f99b06da93fc8558efc5312690e30834964b"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 90040,
+    "sha256": "a5d2333f3b77a2b035c84bf3b5fdd6a2b1e857b0d0b4cb21c28e1af398530bcb",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/67/67db609f-b98f-45ff-8127-874a997f7b2f/cover.0",
+        "bytes": 90040,
+        "sha": "336f1a7b759602b877ce8691b7c2e977058466ad"
+      }
+    ]
+  }
+}

@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 262045327,
+      "usedBytes": 266639645,
       "full": false
     }
   ],
@@ -672,8 +672,22 @@
       "addedAt": "2026-11-25T13:12:19.765Z",
       "updatedAt": "2026-11-25T13:12:19.765Z",
       "manifest": "manifests/1efc4ef3-d821-4593-acad-e4bd2d40c9ba.json"
+    },
+    {
+      "id": "67db609f-b98f-45ff-8127-874a997f7b2f",
+      "kind": "audio",
+      "title": "Gala Gala-SenSongsMp3.Co",
+      "artist": "Mahesh Babu,Ileana D Cruz",
+      "album": "Pokiri(2006)",
+      "duration": 275,
+      "mime": "audio/mpeg",
+      "bytes": 4504278,
+      "sha256": "394912d05ebf0e978729c71f05c76e8262274a87670a3eb1dc4ecf25b17ec05d",
+      "addedAt": "2026-11-25T13:12:19.787Z",
+      "updatedAt": "2026-11-25T13:12:19.787Z",
+      "manifest": "manifests/67db609f-b98f-45ff-8127-874a997f7b2f.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:29:19.448Z"
+  "updatedAt": "2026-11-25T13:29:38.103Z"
 }
