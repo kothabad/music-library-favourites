@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "4ab8c15d-557c-4857-9e10-eff72228c6aa",
+  "media": {
+    "name": "Sutiga Choodaku - SenSongsmp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4958273,
+    "sha256": "d61a1596fd54fd9f1a72d35c9bf428bf4c93f1653ab175c8eb490455af2741bf",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/4a/4ab8c15d-557c-4857-9e10-eff72228c6aa/media.0",
+        "bytes": 4958273,
+        "sha": "acdbb0ece6614d47e8ee817dc53b84d3552f2f52"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 60844,
+    "sha256": "844a8e23cccc38f5d3ebac80bf44dccb6bb5f74c1ca74caa66d694bd69ebab6b",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/4a/4ab8c15d-557c-4857-9e10-eff72228c6aa/cover.0",
+        "bytes": 60844,
+        "sha": "9f0ed82359782da7989e5b7b42de7e3b5b84edf8"
+      }
+    ]
+  }
+}
