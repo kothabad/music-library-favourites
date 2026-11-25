@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "c6c8f1a1-92c4-457f-86f9-ebedf50caab2",
+  "media": {
+    "name": "Manase Guvvai - SenSongsmp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 5140536,
+    "sha256": "76c4a7567cc2ff4e59006b340388ff79173604f7dbc974d610a72dd9a46e7d65",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/c6/c6c8f1a1-92c4-457f-86f9-ebedf50caab2/media.0",
+        "bytes": 5140536,
+        "sha": "6e25d37056794f3489bfcf0a7bc7d92954072074"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 84777,
+    "sha256": "d58f48ee590d9ed324ad3a784bce0cb9ea01a4edc613bfb0d4b3ccde8c1dae97",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/c6/c6c8f1a1-92c4-457f-86f9-ebedf50caab2/cover.0",
+        "bytes": 84777,
+        "sha": "47e469f7d1a699c37340aca7421dd1669ad6779d"
+      }
+    ]
+  }
+}

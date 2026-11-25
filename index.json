@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 397033982,
+      "usedBytes": 402259295,
       "full": false
     }
   ],
@@ -938,8 +938,22 @@
       "addedAt": "2026-11-25T13:12:20.309Z",
       "updatedAt": "2026-11-25T13:12:20.309Z",
       "manifest": "manifests/a4c1ea8e-6638-46a2-8ca1-5f6288514c95.json"
+    },
+    {
+      "id": "c6c8f1a1-92c4-457f-86f9-ebedf50caab2",
+      "kind": "audio",
+      "title": "Manase Guvvai",
+      "artist": "Karthik",
+      "album": "Naa Peru Shiva (2011)",
+      "duration": 315,
+      "mime": "audio/mpeg",
+      "bytes": 5140536,
+      "sha256": "76c4a7567cc2ff4e59006b340388ff79173604f7dbc974d610a72dd9a46e7d65",
+      "addedAt": "2026-11-25T13:12:20.336Z",
+      "updatedAt": "2026-11-25T13:12:20.336Z",
+      "manifest": "manifests/c6c8f1a1-92c4-457f-86f9-ebedf50caab2.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:35:49.409Z"
+  "updatedAt": "2026-11-25T13:36:08.454Z"
 }
