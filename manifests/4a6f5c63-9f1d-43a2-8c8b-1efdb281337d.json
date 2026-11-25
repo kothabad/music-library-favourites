@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "4a6f5c63-9f1d-43a2-8c8b-1efdb281337d",
+  "media": {
+    "name": "Kadalalle - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 10808509,
+    "sha256": "30a0e0d5b76e098b5a214f2f6a9fe9ead1e8c1b5250b8bf786a143c2f7a682bb",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/4a/4a6f5c63-9f1d-43a2-8c8b-1efdb281337d/media.0",
+        "bytes": 10808509,
+        "sha": "5976097be07d681bf889cdab8c637d51a1863467"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 391421,
+    "sha256": "09061ffaf7146c7222be142d2934afa64c2ab68aaf12d6f4331edd845942f3a5",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/4a/4a6f5c63-9f1d-43a2-8c8b-1efdb281337d/cover.0",
+        "bytes": 391421,
+        "sha": "227ae0747b0ee135d915d6f91386f6493dfba976"
+      }
+    ]
+  }
+}
