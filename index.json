@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 217797222,
+      "usedBytes": 223396442,
       "full": false
     }
   ],
@@ -546,8 +546,22 @@
       "addedAt": "2026-11-25T13:12:19.598Z",
       "updatedAt": "2026-11-25T13:12:19.598Z",
       "manifest": "manifests/567865c5-68dd-4b95-87b7-7405ae8dd47a.json"
+    },
+    {
+      "id": "ce75b777-f0e8-49a0-9fc2-5c29bdc882fb",
+      "kind": "audio",
+      "title": "Cheliya Cheliya-My3Songs.Com",
+      "artist": "Pawan Kalyan, Bhumika",
+      "album": "Khushi(2001)",
+      "duration": 344,
+      "mime": "audio/mpeg",
+      "bytes": 5569326,
+      "sha256": "b6dd067fe7b36006ddfbf5ba2de1a609b7b71816b44198f2ce6bcfc686e2e382",
+      "addedAt": "2026-11-25T13:12:19.626Z",
+      "updatedAt": "2026-11-25T13:12:19.626Z",
+      "manifest": "manifests/ce75b777-f0e8-49a0-9fc2-5c29bdc882fb.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:26:26.510Z"
+  "updatedAt": "2026-11-25T13:26:44.036Z"
 }
