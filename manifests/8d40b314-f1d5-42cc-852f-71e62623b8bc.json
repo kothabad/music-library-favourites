@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "8d40b314-f1d5-42cc-852f-71e62623b8bc",
+  "media": {
+    "name": "3-Nenu Nuvvantu-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4743960,
+    "sha256": "cd3a8d3094f70cc5af69fdfc01a0c18f825a1bf39b27c6df3106a3a8a75cf33f",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/8d/8d40b314-f1d5-42cc-852f-71e62623b8bc/media.0",
+        "bytes": 4743960,
+        "sha": "ae9915529977bda2e74d51df3726b78839d790a0"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 104935,
+    "sha256": "82e4c05e03a4dbcf6bda5918e9ca73ec97ab6174c8302ab8d610bd3c3e3fbb36",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/8d/8d40b314-f1d5-42cc-852f-71e62623b8bc/cover.0",
+        "bytes": 104935,
+        "sha": "937edf6309c82469a6be9229ab877668776725d3"
+      }
+    ]
+  }
+}
