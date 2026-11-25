@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "59624cca-dabb-4a24-91bd-dae3df284cd4",
+  "media": {
+    "name": "Hey Krishna (PenduJatt.Com.Se).mp3",
+    "mime": "audio/mpeg",
+    "bytes": 9024803,
+    "sha256": "97f3aa012bc4ec884b733179547c85b480af98620046292cf6224ca51f1a486a",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/59/59624cca-dabb-4a24-91bd-dae3df284cd4/media.0",
+        "bytes": 9024803,
+        "sha": "760196940a4142c256ace13094890e924dd6d1a0"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 69366,
+    "sha256": "194855d261cac56106d7b0d81ab25432ac588681142ec291ab4459ba9f1ef742",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/59/59624cca-dabb-4a24-91bd-dae3df284cd4/cover.0",
+        "bytes": 69366,
+        "sha": "51cf773798ea99899d980e7877066895eca634a2"
+      }
+    ]
+  }
+}
