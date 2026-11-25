@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "0ad4f2f6-9405-4e56-9e86-3a452b11000f",
+  "media": {
+    "name": "Yeduta Nilichindhi Choodu - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4818083,
+    "sha256": "14824c5c5d7807581498e82c3156f636c89c1a6d0eb2d27adcdee31a62c300bb",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/0a/0ad4f2f6-9405-4e56-9e86-3a452b11000f/media.0",
+        "bytes": 4818083,
+        "sha": "54411743090ed0b2ae703f88ef887625666ba864"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 169767,
+    "sha256": "7ac8e08c541f092edd722a1babde4f1d13737080335a10f5017645a431ca675d",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/0a/0ad4f2f6-9405-4e56-9e86-3a452b11000f/cover.0",
+        "bytes": 169767,
+        "sha": "d0030827fa7c6685e8869aae4ba65771c67e3658"
+      }
+    ]
+  }
+}
