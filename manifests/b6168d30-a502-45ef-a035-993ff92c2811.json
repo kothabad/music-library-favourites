@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "b6168d30-a502-45ef-a035-993ff92c2811",
+  "media": {
+    "name": "03 - Chaala Bagundi.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4644465,
+    "sha256": "deb00b82160edfe3461072e403ed4dadc3f2fd1fd352a23ca93df673cfd3b1f3",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/b6/b6168d30-a502-45ef-a035-993ff92c2811/media.0",
+        "bytes": 4644465,
+        "sha": "1c2060a7df1cfec622f7d3a2485c9ac65eea947d"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 89410,
+    "sha256": "8db86e12d383ae81ef709751ef9f8db11cd981ffd25785e60f6eb4d1ecd12e93",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/b6/b6168d30-a502-45ef-a035-993ff92c2811/cover.0",
+        "bytes": 89410,
+        "sha": "c1bc06782e01cd6ffef2c002b8b4ed5c32d7694c"
+      }
+    ]
+  }
+}
