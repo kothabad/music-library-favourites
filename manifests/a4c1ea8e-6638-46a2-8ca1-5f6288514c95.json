@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "a4c1ea8e-6638-46a2-8ca1-5f6288514c95",
+  "media": {
+    "name": "Manasaa Padhaa - SenSongsmp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4621402,
+    "sha256": "d1fc80a39389de89403881aa2d8644e07b4c81034a4444a78da0efadd9f0cd0e",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/a4/a4c1ea8e-6638-46a2-8ca1-5f6288514c95/media.0",
+        "bytes": 4621402,
+        "sha": "9325e051c6b3fba32e36c6c2b33a6e3b9dbf31d4"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 39394,
+    "sha256": "fe037397358c0e9c5c86013382a1c7a5984e0539933fc68a94ff8744d3b87ced",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/a4/a4c1ea8e-6638-46a2-8ca1-5f6288514c95/cover.0",
+        "bytes": 39394,
+        "sha": "4bb24b2ae152a6ebcc42e09b07bbd117eb5c92c0"
+      }
+    ]
+  }
+}

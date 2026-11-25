@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 392373186,
+      "usedBytes": 397033982,
       "full": false
     }
   ],
@@ -924,8 +924,22 @@
       "addedAt": "2026-11-25T13:12:20.286Z",
       "updatedAt": "2026-11-25T13:12:20.286Z",
       "manifest": "manifests/e35d8139-d430-44b9-a5fb-fb40ff122c30.json"
+    },
+    {
+      "id": "a4c1ea8e-6638-46a2-8ca1-5f6288514c95",
+      "kind": "audio",
+      "title": "Manasaa Padhaa",
+      "artist": "A.R. Rahman",
+      "album": "Mariyaan (2015)",
+      "duration": 286,
+      "mime": "audio/mpeg",
+      "bytes": 4621402,
+      "sha256": "d1fc80a39389de89403881aa2d8644e07b4c81034a4444a78da0efadd9f0cd0e",
+      "addedAt": "2026-11-25T13:12:20.309Z",
+      "updatedAt": "2026-11-25T13:12:20.309Z",
+      "manifest": "manifests/a4c1ea8e-6638-46a2-8ca1-5f6288514c95.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:35:21.043Z"
+  "updatedAt": "2026-11-25T13:35:49.409Z"
 }
