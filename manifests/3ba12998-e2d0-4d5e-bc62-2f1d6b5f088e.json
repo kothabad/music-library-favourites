@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "3ba12998-e2d0-4d5e-bc62-2f1d6b5f088e",
+  "media": {
+    "name": "Yedho Alajadi - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4157795,
+    "sha256": "98430e1d2d91e486a31c4ac0c58a67be6e6901976cc23ad89c51a487efc9807b",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/3b/3ba12998-e2d0-4d5e-bc62-2f1d6b5f088e/media.0",
+        "bytes": 4157795,
+        "sha": "5b62c1ce84242ca85683001cd1ec39448f69cdd8"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.png",
+    "mime": "image/png",
+    "bytes": 739110,
+    "sha256": "8f29a3a4ebc2d0edf48f6a6f6bb916c399fda6c675451b3bbc3b9c4a77423744",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/3b/3ba12998-e2d0-4d5e-bc62-2f1d6b5f088e/cover.0",
+        "bytes": 739110,
+        "sha": "1fbb228912ecd88663767e74399956c20fb47e39"
+      }
+    ]
+  }
+}
