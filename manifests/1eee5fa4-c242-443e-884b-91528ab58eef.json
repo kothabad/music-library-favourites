@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "1eee5fa4-c242-443e-884b-91528ab58eef",
+  "media": {
+    "name": "Niharika-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4221347,
+    "sha256": "bb14673214341f15b48098400e827cf3bafd317c7c4c0b35ef47994e14847012",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/1e/1eee5fa4-c242-443e-884b-91528ab58eef/media.0",
+        "bytes": 4221347,
+        "sha": "f27aa3cfd9fff24e0e1cc5264311d76dda97f4d9"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 56938,
+    "sha256": "b69ae5657352ad74e336a7ada410fc1417833db7df7605bcf7a1da75697fbcae",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/1e/1eee5fa4-c242-443e-884b-91528ab58eef/cover.0",
+        "bytes": 56938,
+        "sha": "371a85adaf324cb1f6767659ec27399d663c6653"
+      }
+    ]
+  }
+}
