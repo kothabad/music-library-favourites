@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "eadea578-de91-4676-a4e7-14dd5b71e742",
+  "media": {
+    "name": "03 - Naa Cheli Rojave - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4796125,
+    "sha256": "a0bb68d5eaadda845790941f58b7d144173a2482bd364dc7b50982ec506550ae",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/ea/eadea578-de91-4676-a4e7-14dd5b71e742/media.0",
+        "bytes": 4796125,
+        "sha": "270f514f998c6d9eecd58f4bf38152f4c8e55971"
+      }
+    ]
+  }
+}

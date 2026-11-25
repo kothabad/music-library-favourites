@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 99519182,
+      "usedBytes": 104315307,
       "full": false
     }
   ],
@@ -224,8 +224,22 @@
       "addedAt": "2026-11-25T13:12:18.920Z",
       "updatedAt": "2026-11-25T13:12:18.920Z",
       "manifest": "manifests/aab20854-3243-48bf-88ee-f6089f22fc1e.json"
+    },
+    {
+      "id": "eadea578-de91-4676-a4e7-14dd5b71e742",
+      "kind": "audio",
+      "title": "03 - Naa Cheli Rojave - SenSongsMp3.Co",
+      "artist": "www.SenSongsMp3.co",
+      "album": "Roja (1992)",
+      "duration": 299,
+      "mime": "audio/mpeg",
+      "bytes": 4796125,
+      "sha256": "a0bb68d5eaadda845790941f58b7d144173a2482bd364dc7b50982ec506550ae",
+      "addedAt": "2026-11-25T13:12:18.945Z",
+      "updatedAt": "2026-11-25T13:12:18.945Z",
+      "manifest": "manifests/eadea578-de91-4676-a4e7-14dd5b71e742.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:19:13.558Z"
+  "updatedAt": "2026-11-25T13:19:32.401Z"
 }
