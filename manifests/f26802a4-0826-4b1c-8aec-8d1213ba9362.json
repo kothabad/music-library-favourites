@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "f26802a4-0826-4b1c-8aec-8d1213ba9362",
+  "media": {
+    "name": "Hrudayam Ekkadunnadi - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 5355506,
+    "sha256": "50d9bb0af564cc9d8d2ac7974a08ca4270d1b1928f0e5fa68b50ee9222f93b8e",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/f2/f26802a4-0826-4b1c-8aec-8d1213ba9362/media.0",
+        "bytes": 5355506,
+        "sha": "bb5fe6676efa6891e15fe735b737338ecafdbdbe"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 275219,
+    "sha256": "26ef49f144b6ece54c6287800918d5d98287575b73f6b2d7fce4f230bda53492",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/f2/f26802a4-0826-4b1c-8aec-8d1213ba9362/cover.0",
+        "bytes": 275219,
+        "sha": "c95d8778a4382046562da893c99671f29bc348f4"
+      }
+    ]
+  }
+}
