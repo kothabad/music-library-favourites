@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "c7d76fb0-088c-437f-a216-3352da2ef192",
+  "media": {
+    "name": "Okey Oka Lokam - SenSongsMp3.Com.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 8379656,
+    "sha256": "e57dbd4fb0b37430b5dc31d12ed5fecfa67a9fe195f76e5cf372cae6176544fd",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/c7/c7d76fb0-088c-437f-a216-3352da2ef192/media.0",
+        "bytes": 8379656,
+        "sha": "559aa0e049bc342198772c933f5f9edc8e59e0d0"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 58259,
+    "sha256": "98fc4353fb5c377605b03aa2de62fa0eb545e9c9e7ca80cc21d1c60717d612e1",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/c7/c7d76fb0-088c-437f-a216-3352da2ef192/cover.0",
+        "bytes": 58259,
+        "sha": "5861c35ca0fd36d84375d65c94b0d31ca5d18208"
+      }
+    ]
+  }
+}
