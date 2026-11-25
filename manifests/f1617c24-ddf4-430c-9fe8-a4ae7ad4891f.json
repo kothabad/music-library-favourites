@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "f1617c24-ddf4-430c-9fe8-a4ae7ad4891f",
+  "media": {
+    "name": "Panja-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 3550957,
+    "sha256": "cc13217ae85a2a6c71d96390188b7c42561f3349d955a928727ec4dee54ec17a",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/f1/f1617c24-ddf4-430c-9fe8-a4ae7ad4891f/media.0",
+        "bytes": 3550957,
+        "sha": "89cf13b9e8c5802fd14f1f53eb8fcc44e326ef63"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 80554,
+    "sha256": "36dd426b660bb2ab50e0b34e89ee32a77a2a6d8a947f747d2978c5c026930653",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/f1/f1617c24-ddf4-430c-9fe8-a4ae7ad4891f/cover.0",
+        "bytes": 80554,
+        "sha": "fa6904b23b4e634105651550a60e8a83d8c25093"
+      }
+    ]
+  }
+}
