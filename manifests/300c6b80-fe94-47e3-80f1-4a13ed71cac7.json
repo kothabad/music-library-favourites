@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "300c6b80-fe94-47e3-80f1-4a13ed71cac7",
+  "media": {
+    "name": "Komma Komma-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4673343,
+    "sha256": "0a57d40d5193841b09e195d0c30d23b3d6ec992b50495919edd75438fde325a1",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/30/300c6b80-fe94-47e3-80f1-4a13ed71cac7/media.0",
+        "bytes": 4673343,
+        "sha": "2c5979eb948fa3dad51b70ea77e06462a063798a"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 128695,
+    "sha256": "14aa4dd2d17eaa271083982ccc93f4bb61f1d363cdce76aaad5704a8e956c7e2",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/30/300c6b80-fe94-47e3-80f1-4a13ed71cac7/cover.0",
+        "bytes": 128695,
+        "sha": "4922fca78183487ccabfa93e44c8954d0ade01a6"
+      }
+    ]
+  }
+}
