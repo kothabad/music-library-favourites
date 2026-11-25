@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "86d1e278-253f-406e-ae8c-28664909096e",
+  "media": {
+    "name": "06 - Cheli Chamaku  - SenSongsMp3.co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4973065,
+    "sha256": "c60eb6dbb722cda897677eed8b46a5657e6bca12d2f595b5ef22f6d844989141",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/86/86d1e278-253f-406e-ae8c-28664909096e/media.0",
+        "bytes": 4973065,
+        "sha": "68799134d071a35c904d7a3d83187883c134c9d8"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.png",
+    "mime": "image/png",
+    "bytes": 20495,
+    "sha256": "e0e4b8b700a463dd86d54da03dc82ae5997508873a1a8545891e607b3c60766d",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/86/86d1e278-253f-406e-ae8c-28664909096e/cover.0",
+        "bytes": 20495,
+        "sha": "13cb9c6450dcd10ceafb175957d9818bbfecea10"
+      }
+    ]
+  }
+}
