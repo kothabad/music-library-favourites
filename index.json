@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 214992388,
+      "usedBytes": 217797222,
       "full": false
     }
   ],
@@ -532,8 +532,22 @@
       "addedAt": "2026-11-25T13:12:18.893Z",
       "updatedAt": "2026-11-25T13:12:18.893Z",
       "manifest": "manifests/b6168d30-a502-45ef-a035-993ff92c2811.json"
+    },
+    {
+      "id": "567865c5-68dd-4b95-87b7-7405ae8dd47a",
+      "kind": "audio",
+      "title": "Chalore Chalore Chal (Telugu)-My3Songs.Com",
+      "artist": "Pawan Kalyan, Ileana",
+      "album": "Jalsa(2008)",
+      "duration": 167,
+      "mime": "audio/mpeg",
+      "bytes": 2758695,
+      "sha256": "f5b957671f5d7deddbcbfd516b5b3ac7878f8a464ad03168184dff0be3dff7db",
+      "addedAt": "2026-11-25T13:12:19.598Z",
+      "updatedAt": "2026-11-25T13:12:19.598Z",
+      "manifest": "manifests/567865c5-68dd-4b95-87b7-7405ae8dd47a.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:26:08.823Z"
+  "updatedAt": "2026-11-25T13:26:26.510Z"
 }

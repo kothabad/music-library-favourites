@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "567865c5-68dd-4b95-87b7-7405ae8dd47a",
+  "media": {
+    "name": "Chalore Chalore Chal (Telugu)-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 2758695,
+    "sha256": "f5b957671f5d7deddbcbfd516b5b3ac7878f8a464ad03168184dff0be3dff7db",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/56/567865c5-68dd-4b95-87b7-7405ae8dd47a/media.0",
+        "bytes": 2758695,
+        "sha": "6f76668ab11def6d962c0dcff621f0d84ac596c0"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 46139,
+    "sha256": "f55a1fe223d8b16eb09b60f48a8c05f7acfa7968c816b0914900ce371e5bc775",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/56/567865c5-68dd-4b95-87b7-7405ae8dd47a/cover.0",
+        "bytes": 46139,
+        "sha": "d97851c9d261babb1365e5b819ca3962fe43ee2b"
+      }
+    ]
+  }
+}
