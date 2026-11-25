@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "35441f83-6c87-47e0-9d8c-c637ad4a06d1",
+  "media": {
+    "name": "02 - Kavvinchake O Prema - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4181725,
+    "sha256": "bf8588e3e2334aceb00582ace0b897a5ca3bfc0c2b19af24f24c9019a7f4a120",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/35/35441f83-6c87-47e0-9d8c-c637ad4a06d1/media.0",
+        "bytes": 4181725,
+        "sha": "4b29db11fdc88cf5493a31430a78f537bf1ab43a"
+      }
+    ]
+  }
+}
