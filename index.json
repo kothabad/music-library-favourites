@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 228141921,
+      "usedBytes": 232935024,
       "full": false
     }
   ],
@@ -574,8 +574,22 @@
       "addedAt": "2026-11-25T13:12:19.652Z",
       "updatedAt": "2026-11-25T13:12:19.652Z",
       "manifest": "manifests/c1595563-6895-44a4-b748-96ff0db74eba.json"
+    },
+    {
+      "id": "79c06026-892b-45ab-97e8-1f60e8287913",
+      "kind": "audio",
+      "title": "Chiru Chiru Chiru-SenSongsMp3.Co",
+      "artist": "Hari Charan, Tanvi",
+      "album": "Awaara (2010)",
+      "duration": 284,
+      "mime": "audio/mpeg",
+      "bytes": 4673240,
+      "sha256": "f76b7658e78d3a26db981477294160e1cf663d1ca15e76138cedc35fed8b483d",
+      "addedAt": "2026-11-25T13:12:18.472Z",
+      "updatedAt": "2026-11-25T13:12:18.472Z",
+      "manifest": "manifests/79c06026-892b-45ab-97e8-1f60e8287913.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:27:02.662Z"
+  "updatedAt": "2026-11-25T13:27:21.497Z"
 }
