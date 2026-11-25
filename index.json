@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 165581404,
+      "usedBytes": 171281828,
       "full": false
     }
   ],
@@ -378,8 +378,22 @@
       "addedAt": "2026-11-25T13:12:19.278Z",
       "updatedAt": "2026-11-25T13:12:19.278Z",
       "manifest": "manifests/681f20d9-98f5-4f42-8496-f1c98fb31ae4.json"
+    },
+    {
+      "id": "ec7e94c4-52dc-4935-aa2d-29bff7fe5d7b",
+      "kind": "audio",
+      "title": "06 - Nemali",
+      "artist": "Unni Krishnan, Shwetha Mohan",
+      "album": "Rangam (2011)",
+      "duration": 343,
+      "mime": "audio/mpeg",
+      "bytes": 5602780,
+      "sha256": "ac6b57da8f3d2a24e7ee93695e3f546e62ec5d1197ad2a1c2d3c4c3d65614143",
+      "addedAt": "2026-11-25T13:12:19.321Z",
+      "updatedAt": "2026-11-25T13:12:19.321Z",
+      "manifest": "manifests/ec7e94c4-52dc-4935-aa2d-29bff7fe5d7b.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:22:46.554Z"
+  "updatedAt": "2026-11-25T13:23:06.317Z"
 }

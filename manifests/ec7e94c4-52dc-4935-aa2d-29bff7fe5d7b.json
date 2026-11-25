@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "ec7e94c4-52dc-4935-aa2d-29bff7fe5d7b",
+  "media": {
+    "name": "06 - Nemali - SenSongsmp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 5602780,
+    "sha256": "ac6b57da8f3d2a24e7ee93695e3f546e62ec5d1197ad2a1c2d3c4c3d65614143",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/ec/ec7e94c4-52dc-4935-aa2d-29bff7fe5d7b/media.0",
+        "bytes": 5602780,
+        "sha": "fd931c2a3fe4de112d90a0e9c2639be45d289695"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 97644,
+    "sha256": "88a5caae6a492904ba64214971ba1c9c46ee5ce487ddeae54ca7eb8d9efd4c5a",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/ec/ec7e94c4-52dc-4935-aa2d-29bff7fe5d7b/cover.0",
+        "bytes": 97644,
+        "sha": "eaa5f984cc01c42673bf79c804834e5c611e4adc"
+      }
+    ]
+  }
+}
