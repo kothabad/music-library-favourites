@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "4e2d5b33-3391-4d0a-8722-9ef5959b2ee1",
+  "media": {
+    "name": "02 - Manasa Mannichamma  - SenSongsMp3.co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4412152,
+    "sha256": "344d1e5d593ce29bfdf17b62c74d0c05dd0ee02e886f0b29de692d3c151a0176",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/4e/4e2d5b33-3391-4d0a-8722-9ef5959b2ee1/media.0",
+        "bytes": 4412152,
+        "sha": "309bfd0db6ec57a441475e423ec56a41080bbd7c"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.png",
+    "mime": "image/png",
+    "bytes": 20495,
+    "sha256": "e0e4b8b700a463dd86d54da03dc82ae5997508873a1a8545891e607b3c60766d",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/4e/4e2d5b33-3391-4d0a-8722-9ef5959b2ee1/cover.0",
+        "bytes": 20495,
+        "sha": "13cb9c6450dcd10ceafb175957d9818bbfecea10"
+      }
+    ]
+  }
+}
