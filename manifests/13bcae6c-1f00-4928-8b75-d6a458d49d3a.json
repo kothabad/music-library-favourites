@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "13bcae6c-1f00-4928-8b75-d6a458d49d3a",
+  "media": {
+    "name": "Aakasha Ganga - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 5121497,
+    "sha256": "60613272c4ef0ca32d2bc1cb9faf69bf7ab58f48dcda61a5a26ca1df8a8a42e0",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/13/13bcae6c-1f00-4928-8b75-d6a458d49d3a/media.0",
+        "bytes": 5121497,
+        "sha": "3e0002c46c6ae96941620b9e4007c0828c1d9218"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 169767,
+    "sha256": "7ac8e08c541f092edd722a1babde4f1d13737080335a10f5017645a431ca675d",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/13/13bcae6c-1f00-4928-8b75-d6a458d49d3a/cover.0",
+        "bytes": 169767,
+        "sha": "d0030827fa7c6685e8869aae4ba65771c67e3658"
+      }
+    ]
+  }
+}
