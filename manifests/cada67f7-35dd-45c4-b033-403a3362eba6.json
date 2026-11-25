@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "cada67f7-35dd-45c4-b033-403a3362eba6",
+  "media": {
+    "name": "04 - Naa Manasuki  - SenSongsMp3.co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 5484627,
+    "sha256": "5a0743cc3468c40fa5269b699a315dcc7ea40706b6d18384587ba4464d0eae8c",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/ca/cada67f7-35dd-45c4-b033-403a3362eba6/media.0",
+        "bytes": 5484627,
+        "sha": "08099d46085ec7294dfd2e357cc5551046cab9b7"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.png",
+    "mime": "image/png",
+    "bytes": 20495,
+    "sha256": "e0e4b8b700a463dd86d54da03dc82ae5997508873a1a8545891e607b3c60766d",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/ca/cada67f7-35dd-45c4-b033-403a3362eba6/cover.0",
+        "bytes": 20495,
+        "sha": "13cb9c6450dcd10ceafb175957d9818bbfecea10"
+      }
+    ]
+  }
+}
