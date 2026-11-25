@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "e082e8b4-34f0-4956-8598-e5aa9803df67",
+  "media": {
+    "name": "Ela Ela-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 5010072,
+    "sha256": "f0676ed2dcecb5105a5836e16f5edf9d78caa8c744761b386ac4104039e794b5",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/e0/e082e8b4-34f0-4956-8598-e5aa9803df67/media.0",
+        "bytes": 5010072,
+        "sha": "d3227f870d77668a0646791891794a9cac78d595"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 80554,
+    "sha256": "36dd426b660bb2ab50e0b34e89ee32a77a2a6d8a947f747d2978c5c026930653",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/e0/e082e8b4-34f0-4956-8598-e5aa9803df67/cover.0",
+        "bytes": 80554,
+        "sha": "fa6904b23b4e634105651550a60e8a83d8c25093"
+      }
+    ]
+  }
+}

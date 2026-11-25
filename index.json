@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 252145323,
+      "usedBytes": 257235949,
       "full": false
     }
   ],
@@ -644,8 +644,22 @@
       "addedAt": "2026-11-25T13:12:19.723Z",
       "updatedAt": "2026-11-25T13:12:19.723Z",
       "manifest": "manifests/d274d602-a0e8-4531-9cab-be91e5c5fa86.json"
+    },
+    {
+      "id": "e082e8b4-34f0-4956-8598-e5aa9803df67",
+      "kind": "audio",
+      "title": "Ela Ela-My3Songs.Com",
+      "artist": "Pawan Kalyan, Sarah Jane Dias",
+      "album": "Panjaa(2011)",
+      "duration": 307,
+      "mime": "audio/mpeg",
+      "bytes": 5010072,
+      "sha256": "f0676ed2dcecb5105a5836e16f5edf9d78caa8c744761b386ac4104039e794b5",
+      "addedAt": "2026-11-25T13:12:19.745Z",
+      "updatedAt": "2026-11-25T13:12:19.745Z",
+      "manifest": "manifests/e082e8b4-34f0-4956-8598-e5aa9803df67.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:28:33.511Z"
+  "updatedAt": "2026-11-25T13:28:56.118Z"
 }
