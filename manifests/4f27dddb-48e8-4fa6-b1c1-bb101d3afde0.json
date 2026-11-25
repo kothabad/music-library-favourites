@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "4f27dddb-48e8-4fa6-b1c1-bb101d3afde0",
+  "media": {
+    "name": "01 - Thilana Thilana - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 6143625,
+    "sha256": "1fdff898b44cbdf4f35967f4432ebb65876af2cc52127a37a2d27495c8b7d75c",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/4f/4f27dddb-48e8-4fa6-b1c1-bb101d3afde0/media.0",
+        "bytes": 6143625,
+        "sha": "fa1cb293bf28afc7c4f76d757e4321570263c070"
+      }
+    ]
+  }
+}
