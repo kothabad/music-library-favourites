@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 104315307,
+      "usedBytes": 109756497,
       "full": false
     }
   ],
@@ -238,8 +238,22 @@
       "addedAt": "2026-11-25T13:12:18.945Z",
       "updatedAt": "2026-11-25T13:12:18.945Z",
       "manifest": "manifests/eadea578-de91-4676-a4e7-14dd5b71e742.json"
+    },
+    {
+      "id": "742d0e17-e1aa-4588-9ca7-7f438da4a4e0",
+      "kind": "audio",
+      "title": "03 - O Baby-(www.SenSongsMp3.co)",
+      "artist": "Hari Charan, Jenny, Mathangi, Bhargavi",
+      "album": "Aadavari Matalaku Ardhale Verule (2007)",
+      "duration": 337,
+      "mime": "audio/mpeg",
+      "bytes": 5420695,
+      "sha256": "32961c525db5683b2ba1909ae185ef70bb08e5d29445ab9caf7559800c8fb78e",
+      "addedAt": "2026-11-25T13:12:18.996Z",
+      "updatedAt": "2026-11-25T13:12:18.996Z",
+      "manifest": "manifests/742d0e17-e1aa-4588-9ca7-7f438da4a4e0.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:19:32.401Z"
+  "updatedAt": "2026-11-25T13:19:52.265Z"
 }
