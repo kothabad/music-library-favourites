@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "681f20d9-98f5-4f42-8496-f1c98fb31ae4",
+  "media": {
+    "name": "06 - Kannula Logililo - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4494358,
+    "sha256": "e5d614a44469dbafff27e4c1053fff4b4c038b56a5005d991b4c3a001ab40cc4",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/68/681f20d9-98f5-4f42-8496-f1c98fb31ae4/media.0",
+        "bytes": 4494358,
+        "sha": "32e5959c6c84fe2cec8aa42aac2724c3ec3f530d"
+      }
+    ]
+  }
+}
