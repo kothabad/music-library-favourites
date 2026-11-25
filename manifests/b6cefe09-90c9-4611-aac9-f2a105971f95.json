@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "b6cefe09-90c9-4611-aac9-f2a105971f95",
+  "media": {
+    "name": "Yemayano krishna yemaya.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 13341379,
+    "sha256": "85878e7e0767181bc704349de51541df08488ee0bbeb2bfc8f918fa6a728ebd1",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/b6/b6cefe09-90c9-4611-aac9-f2a105971f95/media.0",
+        "bytes": 13341379,
+        "sha": "95a616291ffb6a24e8d7f7ccb461afdc6015d39a"
+      }
+    ]
+  }
+}

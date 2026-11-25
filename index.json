@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 540600108,
+      "usedBytes": 553941487,
       "full": false
     }
   ],
@@ -1316,8 +1316,22 @@
       "addedAt": "2026-11-25T13:12:20.791Z",
       "updatedAt": "2026-11-25T13:12:20.791Z",
       "manifest": "manifests/0ad4f2f6-9405-4e56-9e86-3a452b11000f.json"
+    },
+    {
+      "id": "b6cefe09-90c9-4611-aac9-f2a105971f95",
+      "kind": "audio",
+      "title": "Yemayano krishna yemaya",
+      "artist": "Unknown",
+      "album": "Unknown",
+      "duration": 794,
+      "mime": "audio/mpeg",
+      "bytes": 13341379,
+      "sha256": "85878e7e0767181bc704349de51541df08488ee0bbeb2bfc8f918fa6a728ebd1",
+      "addedAt": "2026-11-25T13:12:20.851Z",
+      "updatedAt": "2026-11-25T13:12:20.851Z",
+      "manifest": "manifests/b6cefe09-90c9-4611-aac9-f2a105971f95.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:44:19.054Z"
+  "updatedAt": "2026-11-25T13:44:40.358Z"
 }
