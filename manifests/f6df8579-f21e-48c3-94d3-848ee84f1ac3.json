@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "f6df8579-f21e-48c3-94d3-848ee84f1ac3",
+  "media": {
+    "name": "Ye Mantramo - SenSongsmp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 2768270,
+    "sha256": "1f0d4ae78fa624d7f2b5f7f122d211ac52b7514c45868b11d92473cdba831605",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/f6/f6df8579-f21e-48c3-94d3-848ee84f1ac3/media.0",
+        "bytes": 2768270,
+        "sha": "9faad4aa2daf0bc9911e4568ce962f03ac11ebf6"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 80290,
+    "sha256": "6c163591642baedb27db015b058e80a3b217c3458d9e72d259c345ca9c6f6a8c",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/f6/f6df8579-f21e-48c3-94d3-848ee84f1ac3/cover.0",
+        "bytes": 80290,
+        "sha": "26b1ffca9eafb89ff0ad4fcc53c4b02cf1363953"
+      }
+    ]
+  }
+}

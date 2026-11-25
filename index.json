@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 527866793,
+      "usedBytes": 530715353,
       "full": false
     }
   ],
@@ -1274,8 +1274,22 @@
       "addedAt": "2026-11-25T13:12:20.743Z",
       "updatedAt": "2026-11-25T13:12:20.743Z",
       "manifest": "manifests/5e51520e-71bd-4fa5-a9f7-d235c0b4d407.json"
+    },
+    {
+      "id": "f6df8579-f21e-48c3-94d3-848ee84f1ac3",
+      "kind": "audio",
+      "title": "Ye Mantramo",
+      "artist": "Bobo Shasi",
+      "album": "Andala Rakshasi (2012)",
+      "duration": 167,
+      "mime": "audio/mpeg",
+      "bytes": 2768270,
+      "sha256": "1f0d4ae78fa624d7f2b5f7f122d211ac52b7514c45868b11d92473cdba831605",
+      "addedAt": "2026-11-25T13:12:20.813Z",
+      "updatedAt": "2026-11-25T13:12:20.813Z",
+      "manifest": "manifests/f6df8579-f21e-48c3-94d3-848ee84f1ac3.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:43:23.895Z"
+  "updatedAt": "2026-11-25T13:43:42.496Z"
 }
