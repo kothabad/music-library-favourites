@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "6ad56ddc-87fc-404d-a8fe-1b255d83ee21",
+  "media": {
+    "name": "Garuda Gamana Tava.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 5319712,
+    "sha256": "c30929c10a73d400307c37ca8e54032c1450bde94483e809430e5c4f849f57ee",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/6a/6ad56ddc-87fc-404d-a8fe-1b255d83ee21/media.0",
+        "bytes": 5319712,
+        "sha": "e4a37e5f288a5f79cbd9438ec1711b04f43edb27"
+      }
+    ]
+  }
+}
