@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 200306263,
+      "usedBytes": 204882249,
       "full": false
     }
   ],
@@ -490,8 +490,22 @@
       "addedAt": "2026-11-25T13:12:19.527Z",
       "updatedAt": "2026-11-25T13:12:19.527Z",
       "manifest": "manifests/ca2f8233-9e76-494e-86d4-4f5ef884c5ba.json"
+    },
+    {
+      "id": "28a6c4d9-682e-46f2-b367-2951d09d35b5",
+      "kind": "audio",
+      "title": "Boom Boom :: SenSongsMp3.Com",
+      "artist": "Sai Abhyankkar, Deepthi Suresh, Bhumi",
+      "album": "Dude (2025)",
+      "duration": 240,
+      "mime": "audio/mpeg",
+      "bytes": 4230344,
+      "sha256": "f0189e19ea33c2479c3d944b2d9300fd3f68f8f37c6f5461ca88f322b4b6dbfb",
+      "addedAt": "2026-11-25T13:12:19.547Z",
+      "updatedAt": "2026-11-25T13:12:19.547Z",
+      "manifest": "manifests/28a6c4d9-682e-46f2-b367-2951d09d35b5.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:25:11.762Z"
+  "updatedAt": "2026-11-25T13:25:31.112Z"
 }

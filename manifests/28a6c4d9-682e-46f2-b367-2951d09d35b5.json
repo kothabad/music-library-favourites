@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "28a6c4d9-682e-46f2-b367-2951d09d35b5",
+  "media": {
+    "name": "Boom Boom.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4230344,
+    "sha256": "f0189e19ea33c2479c3d944b2d9300fd3f68f8f37c6f5461ca88f322b4b6dbfb",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/28/28a6c4d9-682e-46f2-b367-2951d09d35b5/media.0",
+        "bytes": 4230344,
+        "sha": "8e0c76115ee595c2bdbd93a3c5c3fcdc8ecebdfa"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 345642,
+    "sha256": "d6fa6f18f9e9bec554198ef219d03c82c6666792949c0a4b50351bf8a936ea96",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/28/28a6c4d9-682e-46f2-b367-2951d09d35b5/cover.0",
+        "bytes": 345642,
+        "sha": "fd6faef46a52bf733e5e269f15927729bc92f590"
+      }
+    ]
+  }
+}
