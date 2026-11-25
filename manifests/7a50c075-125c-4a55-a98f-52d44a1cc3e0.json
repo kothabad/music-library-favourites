@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "7a50c075-125c-4a55-a98f-52d44a1cc3e0",
+  "media": {
+    "name": "16 Sannuthi Seyave Manasaa - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 3584812,
+    "sha256": "3bcc52d6cde004e2ddb283dbdb38f83720fd5f7c807318734d7b0ec14170eceb",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/7a/7a50c075-125c-4a55-a98f-52d44a1cc3e0/media.0",
+        "bytes": 3584812,
+        "sha": "094400cadcb146307cc3895a638fd270c2748b3a"
+      }
+    ]
+  }
+}
