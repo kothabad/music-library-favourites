@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "357191fc-f9fd-4d4e-a04c-91e3c90c7447",
+  "media": {
+    "name": "Suvvee Suvvee - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 5488684,
+    "sha256": "5bf48c1417ea63d05c285241e782326aeb1bbe06018919b73e6ee3085b785029",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/35/357191fc-f9fd-4d4e-a04c-91e3c90c7447/media.0",
+        "bytes": 5488684,
+        "sha": "f4cc48f7b8451251de6162b96d82dc1514538bc4"
+      }
+    ]
+  }
+}
