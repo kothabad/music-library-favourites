@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 257235949,
+      "usedBytes": 262045327,
       "full": false
     }
   ],
@@ -658,8 +658,22 @@
       "addedAt": "2026-11-25T13:12:19.745Z",
       "updatedAt": "2026-11-25T13:12:19.745Z",
       "manifest": "manifests/e082e8b4-34f0-4956-8598-e5aa9803df67.json"
+    },
+    {
+      "id": "1efc4ef3-d821-4593-acad-e4bd2d40c9ba",
+      "kind": "audio",
+      "title": "Gaallo Thelinattunde-My3Songs.Com",
+      "artist": "Pawan Kalyan, Ileana",
+      "album": "Jalsa(2008)",
+      "duration": 292,
+      "mime": "audio/mpeg",
+      "bytes": 4763239,
+      "sha256": "3fc2786d9f4cd053e382172e1af6c49042f5592f9650a7f5f526a6bf35a845ad",
+      "addedAt": "2026-11-25T13:12:19.765Z",
+      "updatedAt": "2026-11-25T13:12:19.765Z",
+      "manifest": "manifests/1efc4ef3-d821-4593-acad-e4bd2d40c9ba.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:28:56.118Z"
+  "updatedAt": "2026-11-25T13:29:19.448Z"
 }

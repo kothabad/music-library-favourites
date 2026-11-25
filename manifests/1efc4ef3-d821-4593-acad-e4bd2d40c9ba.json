@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "1efc4ef3-d821-4593-acad-e4bd2d40c9ba",
+  "media": {
+    "name": "Gaallo Thelinattunde-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4763239,
+    "sha256": "3fc2786d9f4cd053e382172e1af6c49042f5592f9650a7f5f526a6bf35a845ad",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/1e/1efc4ef3-d821-4593-acad-e4bd2d40c9ba/media.0",
+        "bytes": 4763239,
+        "sha": "92b27daad036a7e7a658e1cb2af75e480feaf4ff"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 46139,
+    "sha256": "f55a1fe223d8b16eb09b60f48a8c05f7acfa7968c816b0914900ce371e5bc775",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/1e/1efc4ef3-d821-4593-acad-e4bd2d40c9ba/cover.0",
+        "bytes": 46139,
+        "sha": "d97851c9d261babb1365e5b819ca3962fe43ee2b"
+      }
+    ]
+  }
+}
