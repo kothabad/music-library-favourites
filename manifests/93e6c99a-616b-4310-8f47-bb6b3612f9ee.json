@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "93e6c99a-616b-4310-8f47-bb6b3612f9ee",
+  "media": {
+    "name": "06 - Vennelave Vennelave - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 5762176,
+    "sha256": "40ef9081140e11d2fa6f6d44961c63ebbcf288e84dc4b20035b75467d0bfdb48",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/93/93e6c99a-616b-4310-8f47-bb6b3612f9ee/media.0",
+        "bytes": 5762176,
+        "sha": "d7fe5ec0ab8052dc4a620735ab1acf8fbdeceb51"
+      }
+    ]
+  }
+}
