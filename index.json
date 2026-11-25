@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 387853738,
+      "usedBytes": 392373186,
       "full": false
     }
   ],
@@ -910,8 +910,22 @@
       "addedAt": "2026-11-25T13:12:20.263Z",
       "updatedAt": "2026-11-25T13:12:20.263Z",
       "manifest": "manifests/300c6b80-fe94-47e3-80f1-4a13ed71cac7.json"
+    },
+    {
+      "id": "e35d8139-d430-44b9-a5fb-fb40ff122c30",
+      "kind": "audio",
+      "title": "Love Ante Caring-My3Songs.In",
+      "artist": "Francisco Castelleno",
+      "album": "Oosaravelli(2011)",
+      "duration": 274,
+      "mime": "audio/mpeg",
+      "bytes": 4462510,
+      "sha256": "b32d09516dd3ac39de90fa881530dc4378a1646697388916141b4e4a42f4e3e1",
+      "addedAt": "2026-11-25T13:12:20.286Z",
+      "updatedAt": "2026-11-25T13:12:20.286Z",
+      "manifest": "manifests/e35d8139-d430-44b9-a5fb-fb40ff122c30.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:35:02.921Z"
+  "updatedAt": "2026-11-25T13:35:21.043Z"
 }

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "e35d8139-d430-44b9-a5fb-fb40ff122c30",
+  "media": {
+    "name": "Love Ante Caring-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4462510,
+    "sha256": "b32d09516dd3ac39de90fa881530dc4378a1646697388916141b4e4a42f4e3e1",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/e3/e35d8139-d430-44b9-a5fb-fb40ff122c30/media.0",
+        "bytes": 4462510,
+        "sha": "42af3946d297112967116186f3b558d28da74fe7"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 56938,
+    "sha256": "b69ae5657352ad74e336a7ada410fc1417833db7df7605bcf7a1da75697fbcae",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/e3/e35d8139-d430-44b9-a5fb-fb40ff122c30/cover.0",
+        "bytes": 56938,
+        "sha": "371a85adaf324cb1f6767659ec27399d663c6653"
+      }
+    ]
+  }
+}
