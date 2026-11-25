@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "9b56a605-d01a-4362-892f-032af8178c10",
+  "media": {
+    "name": "Inkem Inkem Inkem Kaavaale (3D) - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 10645198,
+    "sha256": "39cab36e7b293ae88e3de3f516d7664d6025728b06fcaf4df0a8a01c5bb7b99e",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/9b/9b56a605-d01a-4362-892f-032af8178c10/media.0",
+        "bytes": 10645198,
+        "sha": "6473c5f2051e4de8141187a6ea469dc0d3b9e4e6"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 68153,
+    "sha256": "77b49a9a78bfc5a804a2cc8cc64dad86641afeeca2db2a0cc5f0ec79c18caad2",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/9b/9b56a605-d01a-4362-892f-032af8178c10/cover.0",
+        "bytes": 68153,
+        "sha": "ffbc2001e78227e99249672c9d19639add9230ca"
+      }
+    ]
+  }
+}
