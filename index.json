@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 553941487,
+      "usedBytes": 558405042,
       "full": false
     }
   ],
@@ -1330,8 +1330,22 @@
       "addedAt": "2026-11-25T13:12:20.851Z",
       "updatedAt": "2026-11-25T13:12:20.851Z",
       "manifest": "manifests/b6cefe09-90c9-4611-aac9-f2a105971f95.json"
+    },
+    {
+      "id": "7d936420-276f-4ea5-be1c-ac4a13e739b6",
+      "kind": "audio",
+      "title": "Yemito",
+      "artist": "Haricharan",
+      "album": "Andala Rakshasi (2012)",
+      "duration": 268,
+      "mime": "audio/mpeg",
+      "bytes": 4383265,
+      "sha256": "b8b76bd1c21a123581adb14012537b9ad85eea2022342496574ef286962fe830",
+      "addedAt": "2026-11-25T13:12:20.905Z",
+      "updatedAt": "2026-11-25T13:12:20.905Z",
+      "manifest": "manifests/7d936420-276f-4ea5-be1c-ac4a13e739b6.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:44:40.358Z"
+  "updatedAt": "2026-11-25T13:44:58.579Z"
 }

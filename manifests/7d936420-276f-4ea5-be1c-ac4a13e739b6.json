@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "7d936420-276f-4ea5-be1c-ac4a13e739b6",
+  "media": {
+    "name": "Yemito - SenSongsmp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4383265,
+    "sha256": "b8b76bd1c21a123581adb14012537b9ad85eea2022342496574ef286962fe830",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/7d/7d936420-276f-4ea5-be1c-ac4a13e739b6/media.0",
+        "bytes": 4383265,
+        "sha": "5e9f1b525b2d2190409247fd80527328ba85058c"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 80290,
+    "sha256": "6c163591642baedb27db015b058e80a3b217c3458d9e72d259c345ca9c6f6a8c",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/7d/7d936420-276f-4ea5-be1c-ac4a13e739b6/cover.0",
+        "bytes": 80290,
+        "sha": "26b1ffca9eafb89ff0ad4fcc53c4b02cf1363953"
+      }
+    ]
+  }
+}
