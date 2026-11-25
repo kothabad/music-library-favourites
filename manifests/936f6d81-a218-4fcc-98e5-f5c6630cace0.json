@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "936f6d81-a218-4fcc-98e5-f5c6630cace0",
+  "media": {
+    "name": "Nenante Naaku-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 3993977,
+    "sha256": "d13587fbf60fa961283d0f4b7f1f589211aa217c3a62766cd74dcbddf2d8f330",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/93/936f6d81-a218-4fcc-98e5-f5c6630cace0/media.0",
+        "bytes": 3993977,
+        "sha": "d88f886d881d4bb6bc9f6d32c3818a169a614677"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 56938,
+    "sha256": "b69ae5657352ad74e336a7ada410fc1417833db7df7605bcf7a1da75697fbcae",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/93/936f6d81-a218-4fcc-98e5-f5c6630cace0/cover.0",
+        "bytes": 56938,
+        "sha": "371a85adaf324cb1f6767659ec27399d663c6653"
+      }
+    ]
+  }
+}

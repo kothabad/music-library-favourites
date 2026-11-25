@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 432420482,
+      "usedBytes": 436471397,
       "full": false
     }
   ],
@@ -1036,8 +1036,22 @@
       "addedAt": "2026-11-25T13:12:19.234Z",
       "updatedAt": "2026-11-25T13:12:19.234Z",
       "manifest": "manifests/ef6bfc5d-a20e-45da-a07a-2d594e3269b2.json"
+    },
+    {
+      "id": "936f6d81-a218-4fcc-98e5-f5c6630cace0",
+      "kind": "audio",
+      "title": "Nenante Naaku-My3Songs.In",
+      "artist": "Nenante Naaku",
+      "album": "Oosaravelli(2011)",
+      "duration": 245,
+      "mime": "audio/mpeg",
+      "bytes": 3993977,
+      "sha256": "d13587fbf60fa961283d0f4b7f1f589211aa217c3a62766cd74dcbddf2d8f330",
+      "addedAt": "2026-11-25T13:12:20.444Z",
+      "updatedAt": "2026-11-25T13:12:20.444Z",
+      "manifest": "manifests/936f6d81-a218-4fcc-98e5-f5c6630cace0.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:37:58.848Z"
+  "updatedAt": "2026-11-25T13:38:17.379Z"
 }
