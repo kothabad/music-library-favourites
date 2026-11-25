@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 144113617,
+      "usedBytes": 156093486,
       "full": false
     }
   ],
@@ -336,8 +336,22 @@
       "addedAt": "2026-11-25T13:12:19.211Z",
       "updatedAt": "2026-11-25T13:12:19.211Z",
       "manifest": "manifests/8f0d8ae1-aaea-44da-8e8c-751aeb2cdaff.json"
+    },
+    {
+      "id": "6d8f623a-3990-4d29-9d23-c14f25dd85f2",
+      "kind": "audio",
+      "title": "06 -  O Priya [www.SenSongsMp3.co]",
+      "artist": "S.P. Balu, Chitra, Chorus",
+      "album": "Geetanjali (1989)",
+      "duration": 346,
+      "mime": "audio/mpeg",
+      "bytes": 11959374,
+      "sha256": "7f3cd7490eeb48b37de399b77527684d3648df7e70b86b40603fa810298e01ff",
+      "addedAt": "2026-11-25T13:12:19.376Z",
+      "updatedAt": "2026-11-25T13:12:19.376Z",
+      "manifest": "manifests/6d8f623a-3990-4d29-9d23-c14f25dd85f2.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:21:47.059Z"
+  "updatedAt": "2026-11-25T13:22:11.633Z"
 }
