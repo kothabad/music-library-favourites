@@ -9,12 +9,27 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 0,
+      "usedBytes": 4733013,
       "full": false
     }
   ],
   "currentRepo": "music-library-favourites",
-  "tracks": [],
+  "tracks": [
+    {
+      "id": "f53d48a9-cfb5-45d7-9313-4d73b2c3f86a",
+      "kind": "audio",
+      "title": "01 - Chinni Chinni Aasa - SenSongsMp3.Co",
+      "artist": "www.SenSongsMp3.co",
+      "album": "Roja (1992)",
+      "duration": 295,
+      "mime": "audio/mpeg",
+      "bytes": 4733013,
+      "sha256": "f2d251c65ceeac33b842682f9570f522644954419ce9ec1700cea3c440cbe8a9",
+      "addedAt": "2026-11-25T13:12:18.442Z",
+      "updatedAt": "2026-11-25T13:12:18.442Z",
+      "manifest": "manifests/f53d48a9-cfb5-45d7-9313-4d73b2c3f86a.json"
+    }
+  ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:13:43.717Z"
+  "updatedAt": "2026-11-25T13:14:26.531Z"
 }

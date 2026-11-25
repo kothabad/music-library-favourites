@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "f53d48a9-cfb5-45d7-9313-4d73b2c3f86a",
+  "media": {
+    "name": "01 - Chinni Chinni Aasa - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4733013,
+    "sha256": "f2d251c65ceeac33b842682f9570f522644954419ce9ec1700cea3c440cbe8a9",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/f5/f53d48a9-cfb5-45d7-9313-4d73b2c3f86a/media.0",
+        "bytes": 4733013,
+        "sha": "d56173986e9ad8152a08c2fddbdb2ac7f31ceb33"
+      }
+    ]
+  }
+}
