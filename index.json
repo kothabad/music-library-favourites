@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 362117111,
+      "usedBytes": 366406510,
       "full": false
     }
   ],
@@ -854,8 +854,22 @@
       "addedAt": "2026-11-25T13:12:20.054Z",
       "updatedAt": "2026-11-25T13:12:20.054Z",
       "manifest": "manifests/4fb4897a-7b4d-4b72-ac0e-ac76d9927426.json"
+    },
+    {
+      "id": "5b1de583-15b4-40d7-abf2-566e6230357d",
+      "kind": "audio",
+      "title": "Jalsa-My3Songs.Com",
+      "artist": "Pawan Kalyan, Ileana",
+      "album": "Jalsa(2008)",
+      "duration": 260,
+      "mime": "audio/mpeg",
+      "bytes": 4243260,
+      "sha256": "7b05422397371119a16feac5d62db165833eeb5545d9a58dd34be541f0d5803d",
+      "addedAt": "2026-11-25T13:12:20.074Z",
+      "updatedAt": "2026-11-25T13:12:20.074Z",
+      "manifest": "manifests/5b1de583-15b4-40d7-abf2-566e6230357d.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:33:45.913Z"
+  "updatedAt": "2026-11-25T13:34:04.346Z"
 }
