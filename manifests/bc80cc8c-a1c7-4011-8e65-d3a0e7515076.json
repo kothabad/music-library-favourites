@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "bc80cc8c-a1c7-4011-8e65-d3a0e7515076",
+  "media": {
+    "name": "02 -  Singarala [www.SenSongsMp3.co].mp3",
+    "mime": "audio/mpeg",
+    "bytes": 10333504,
+    "sha256": "9e1fb7a006e43d1eb42b6b5660783a2a68a20cbaf55a7729450d0e669e366f7c",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/bc/bc80cc8c-a1c7-4011-8e65-d3a0e7515076/media.0",
+        "bytes": 10333504,
+        "sha": "68ea8a2b173ea741caa1d41538bf1db90ca89e06"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.png",
+    "mime": "image/png",
+    "bytes": 20495,
+    "sha256": "e0e4b8b700a463dd86d54da03dc82ae5997508873a1a8545891e607b3c60766d",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/bc/bc80cc8c-a1c7-4011-8e65-d3a0e7515076/cover.0",
+        "bytes": 20495,
+        "sha": "13cb9c6450dcd10ceafb175957d9818bbfecea10"
+      }
+    ]
+  }
+}
