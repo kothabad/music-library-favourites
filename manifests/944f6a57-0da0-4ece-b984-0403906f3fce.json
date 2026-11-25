@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "944f6a57-0da0-4ece-b984-0403906f3fce",
+  "media": {
+    "name": "02 - Daredumdadum.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 3844523,
+    "sha256": "61e2e6de0b7e4fb3387fb53b8b9d95546dbc13acee2da47d574bb1760b1078e1",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/94/944f6a57-0da0-4ece-b984-0403906f3fce/media.0",
+        "bytes": 3844523,
+        "sha": "4e87fe66828197ce4c44e3060a39e2091321cd9b"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 89410,
+    "sha256": "8db86e12d383ae81ef709751ef9f8db11cd981ffd25785e60f6eb4d1ecd12e93",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/94/944f6a57-0da0-4ece-b984-0403906f3fce/cover.0",
+        "bytes": 89410,
+        "sha": "c1bc06782e01cd6ffef2c002b8b4ed5c32d7694c"
+      }
+    ]
+  }
+}

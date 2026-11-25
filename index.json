@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 232935024,
+      "usedBytes": 236868957,
       "full": false
     }
   ],
@@ -588,8 +588,22 @@
       "addedAt": "2026-11-25T13:12:18.472Z",
       "updatedAt": "2026-11-25T13:12:18.472Z",
       "manifest": "manifests/79c06026-892b-45ab-97e8-1f60e8287913.json"
+    },
+    {
+      "id": "944f6a57-0da0-4ece-b984-0403906f3fce",
+      "kind": "audio",
+      "title": "Daredumdadum",
+      "artist": "Mickey J Meyer & Sai Shivani",
+      "album": "Mukunda (2014)",
+      "duration": 234,
+      "mime": "audio/mpeg",
+      "bytes": 3844523,
+      "sha256": "61e2e6de0b7e4fb3387fb53b8b9d95546dbc13acee2da47d574bb1760b1078e1",
+      "addedAt": "2026-11-25T13:12:18.714Z",
+      "updatedAt": "2026-11-25T13:12:18.714Z",
+      "manifest": "manifests/944f6a57-0da0-4ece-b984-0403906f3fce.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:27:21.497Z"
+  "updatedAt": "2026-11-25T13:27:39.317Z"
 }
