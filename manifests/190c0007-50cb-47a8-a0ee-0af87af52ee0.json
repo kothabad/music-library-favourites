@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "190c0007-50cb-47a8-a0ee-0af87af52ee0",
+  "media": {
+    "name": "Edho Edho - SenSongsmp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4423282,
+    "sha256": "9698638b33a48dfdf47e2a8bc6f074862ebf754994e6724ce2449ac72c0cef84",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/19/190c0007-50cb-47a8-a0ee-0af87af52ee0/media.0",
+        "bytes": 4423282,
+        "sha": "819d9cda61a286b928b40f320613202489d13712"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 60844,
+    "sha256": "844a8e23cccc38f5d3ebac80bf44dccb6bb5f74c1ca74caa66d694bd69ebab6b",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/19/190c0007-50cb-47a8-a0ee-0af87af52ee0/cover.0",
+        "bytes": 60844,
+        "sha": "9f0ed82359782da7989e5b7b42de7e3b5b84edf8"
+      }
+    ]
+  }
+}
