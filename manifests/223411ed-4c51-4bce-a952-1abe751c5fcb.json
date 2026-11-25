@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "223411ed-4c51-4bce-a952-1abe751c5fcb",
+  "media": {
+    "name": "Vennela Chethapattithena - SenSongsmp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4648626,
+    "sha256": "cfcd19309469deab44c6215ae6077314cb27f61a3ab4b32b7dbf666fa0671782",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/22/223411ed-4c51-4bce-a952-1abe751c5fcb/media.0",
+        "bytes": 4648626,
+        "sha": "fb6ecccdcb5a997198b9b9d5842dcf13d8051a5f"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 84777,
+    "sha256": "d58f48ee590d9ed324ad3a784bce0cb9ea01a4edc613bfb0d4b3ccde8c1dae97",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/22/223411ed-4c51-4bce-a952-1abe751c5fcb/cover.0",
+        "bytes": 84777,
+        "sha": "47e469f7d1a699c37340aca7421dd1669ad6779d"
+      }
+    ]
+  }
+}

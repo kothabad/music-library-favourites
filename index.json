@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 521628828,
+      "usedBytes": 526362231,
       "full": false
     }
   ],
@@ -1246,8 +1246,22 @@
       "addedAt": "2026-11-25T13:12:20.700Z",
       "updatedAt": "2026-11-25T13:12:20.700Z",
       "manifest": "manifests/32cb7a27-29f8-4439-8de5-b54c1ccb8265.json"
+    },
+    {
+      "id": "223411ed-4c51-4bce-a952-1abe751c5fcb",
+      "kind": "audio",
+      "title": "Vennela Chethapattithena",
+      "artist": "Haricharan",
+      "album": "Naa Peru Shiva (2011)",
+      "duration": 285,
+      "mime": "audio/mpeg",
+      "bytes": 4648626,
+      "sha256": "cfcd19309469deab44c6215ae6077314cb27f61a3ab4b32b7dbf666fa0671782",
+      "addedAt": "2026-11-25T13:12:20.721Z",
+      "updatedAt": "2026-11-25T13:12:20.721Z",
+      "manifest": "manifests/223411ed-4c51-4bce-a952-1abe751c5fcb.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:42:47.102Z"
+  "updatedAt": "2026-11-25T13:43:05.834Z"
 }
