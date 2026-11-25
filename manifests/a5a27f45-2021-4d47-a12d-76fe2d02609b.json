@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "a5a27f45-2021-4d47-a12d-76fe2d02609b",
+  "media": {
+    "name": "Ippatikinka-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4540674,
+    "sha256": "803e432841c73edfc5a0c260323f0f1a2615a5437bdd3b909a5f1a2ac90aef46",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/a5/a5a27f45-2021-4d47-a12d-76fe2d02609b/media.0",
+        "bytes": 4540674,
+        "sha": "80dac6bd6306feb26c16c96a05822d6128e824c5"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 90040,
+    "sha256": "a5d2333f3b77a2b035c84bf3b5fdd6a2b1e857b0d0b4cb21c28e1af398530bcb",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/a5/a5a27f45-2021-4d47-a12d-76fe2d02609b/cover.0",
+        "bytes": 90040,
+        "sha": "336f1a7b759602b877ce8691b7c2e977058466ad"
+      }
+    ]
+  }
+}
