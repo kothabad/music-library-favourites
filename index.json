@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 412034675,
+      "usedBytes": 416964389,
       "full": false
     }
   ],
@@ -980,8 +980,22 @@
       "addedAt": "2026-11-25T13:12:20.379Z",
       "updatedAt": "2026-11-25T13:12:20.379Z",
       "manifest": "manifests/8ad0215b-560d-409f-928c-9a99e38b1732.json"
+    },
+    {
+      "id": "e3bbfbcf-f35a-47c0-9e4f-aa23b0442b28",
+      "kind": "audio",
+      "title": "My Heart Is Beating-My3Songs.Com",
+      "artist": "Pawan Kalyan, Ileana",
+      "album": "Jalsa(2008)",
+      "duration": 300,
+      "mime": "audio/mpeg",
+      "bytes": 4883575,
+      "sha256": "25318b427ee9805dc28547454eccf98e708763516217627c94f14737ae815d9f",
+      "addedAt": "2026-11-25T13:12:20.405Z",
+      "updatedAt": "2026-11-25T13:12:20.405Z",
+      "manifest": "manifests/e3bbfbcf-f35a-47c0-9e4f-aa23b0442b28.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:36:46.959Z"
+  "updatedAt": "2026-11-25T13:37:04.523Z"
 }

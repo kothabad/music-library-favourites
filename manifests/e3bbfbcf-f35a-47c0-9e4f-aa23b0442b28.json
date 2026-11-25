@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "e3bbfbcf-f35a-47c0-9e4f-aa23b0442b28",
+  "media": {
+    "name": "My Heart Is Beating-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4883575,
+    "sha256": "25318b427ee9805dc28547454eccf98e708763516217627c94f14737ae815d9f",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/e3/e3bbfbcf-f35a-47c0-9e4f-aa23b0442b28/media.0",
+        "bytes": 4883575,
+        "sha": "1055229d6574a3dffcb0f7a5842d2d5c258b5c5e"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 46139,
+    "sha256": "f55a1fe223d8b16eb09b60f48a8c05f7acfa7968c816b0914900ce371e5bc775",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/e3/e3bbfbcf-f35a-47c0-9e4f-aa23b0442b28/cover.0",
+        "bytes": 46139,
+        "sha": "d97851c9d261babb1365e5b819ca3962fe43ee2b"
+      }
+    ]
+  }
+}
