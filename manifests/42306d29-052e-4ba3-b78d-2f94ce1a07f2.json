@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "42306d29-052e-4ba3-b78d-2f94ce1a07f2",
+  "media": {
+    "name": "Airtel Ringtones.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 529900,
+    "sha256": "7c3f84b3917d778fe7ad1a6ceee3d29017a7b28413ca3d2825241b8ae8e77119",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/42/42306d29-052e-4ba3-b78d-2f94ce1a07f2/media.0",
+        "bytes": 529900,
+        "sha": "0c25fd212b7412a0fbe9b95a8ae481965d9372a1"
+      }
+    ]
+  }
+}
