@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "ef6bfc5d-a20e-45da-a07a-2d594e3269b2",
+  "media": {
+    "name": "5-Nee Yadalo Naaku-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4826852,
+    "sha256": "dc07bb69ebb6b88e79f380708588454d6be3c464bb02fb3108f6a1b8309a9cc4",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/ef/ef6bfc5d-a20e-45da-a07a-2d594e3269b2/media.0",
+        "bytes": 4826852,
+        "sha": "59872308cfbef787aebbea28bbd29c867fa69ad6"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 119863,
+    "sha256": "9f6b34a4b9069d5d7323a9a98c9d9b5e76728b4699d01cc72d55c200c5cde41e",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/ef/ef6bfc5d-a20e-45da-a07a-2d594e3269b2/cover.0",
+        "bytes": 119863,
+        "sha": "e6e8dbeb5e7c8f748b630b6a7c86762dae05c15b"
+      }
+    ]
+  }
+}
