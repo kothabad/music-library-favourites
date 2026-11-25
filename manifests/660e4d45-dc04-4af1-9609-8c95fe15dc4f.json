@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "660e4d45-dc04-4af1-9609-8c95fe15dc4f",
+  "media": {
+    "name": "Aaduvari Matalaku-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 3015993,
+    "sha256": "f88a13e11335dc9779eccfadff5c12d13a4f51db1b71a27de5d2a1e45bd9bbbc",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/66/660e4d45-dc04-4af1-9609-8c95fe15dc4f/media.0",
+        "bytes": 3015993,
+        "sha": "0f7a11353f1e73b7e7b65a9d2a0c3a1c3b725287"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 29894,
+    "sha256": "73598d4856e25125e742a2fdb1b166fcd441f0cde3e2c24a689e91a6d9ea3777",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/66/660e4d45-dc04-4af1-9609-8c95fe15dc4f/cover.0",
+        "bytes": 29894,
+        "sha": "baf255551d52c4c61205399a6a64c261d58e08d4"
+      }
+    ]
+  }
+}
