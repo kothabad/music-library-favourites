@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "music-library-favourites",
-      "usedBytes": 70501650,
+      "usedBytes": 81305740,
       "full": false
     }
   ],
@@ -182,8 +182,22 @@
       "addedAt": "2026-11-25T13:12:18.742Z",
       "updatedAt": "2026-11-25T13:12:18.742Z",
       "manifest": "manifests/130fcfa7-bc38-4ade-956a-0a45c4e3c409.json"
+    },
+    {
+      "id": "3aec3e0a-ed97-404b-b299-d74aed30f9d5",
+      "kind": "audio",
+      "title": "02 Jayakrishna Mukunda Murare - SenSongsMp3.Co",
+      "artist": "www.SenSongsMp3.co",
+      "album": "Panduranga Mahatyam (1957)",
+      "duration": 674,
+      "mime": "audio/mpeg",
+      "bytes": 10804090,
+      "sha256": "6e6e9411ae9138b76fc620bb3c09baaf56028375c02e89327aa888b477eff3e8",
+      "addedAt": "2026-11-25T13:12:18.763Z",
+      "updatedAt": "2026-11-25T13:12:18.763Z",
+      "manifest": "manifests/3aec3e0a-ed97-404b-b299-d74aed30f9d5.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T13:18:10.991Z"
+  "updatedAt": "2026-11-25T13:18:32.600Z"
 }

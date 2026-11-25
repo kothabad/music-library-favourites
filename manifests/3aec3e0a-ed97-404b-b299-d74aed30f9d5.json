@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "3aec3e0a-ed97-404b-b299-d74aed30f9d5",
+  "media": {
+    "name": "02 Jayakrishna Mukunda Murare - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 10804090,
+    "sha256": "6e6e9411ae9138b76fc620bb3c09baaf56028375c02e89327aa888b477eff3e8",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/3a/3aec3e0a-ed97-404b-b299-d74aed30f9d5/media.0",
+        "bytes": 10804090,
+        "sha": "daae5bf376e63c72be2707d75e53a725ad0e4c47"
+      }
+    ]
+  }
+}
