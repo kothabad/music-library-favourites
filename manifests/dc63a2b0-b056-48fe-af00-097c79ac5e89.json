@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "dc63a2b0-b056-48fe-af00-097c79ac5e89",
+  "media": {
+    "name": "04 - Monna Kanipinchavu - SenSongsMp3.co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 5366299,
+    "sha256": "e5dfd0cd2ad57d500803e9ddb9cc83541556a5d11576c537c8416120f6bec800",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/dc/dc63a2b0-b056-48fe-af00-097c79ac5e89/media.0",
+        "bytes": 5366299,
+        "sha": "6b18b0ab5bbb08aed5ab91d51e790eb6fd61d4d1"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.png",
+    "mime": "image/png",
+    "bytes": 20495,
+    "sha256": "e0e4b8b700a463dd86d54da03dc82ae5997508873a1a8545891e607b3c60766d",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/dc/dc63a2b0-b056-48fe-af00-097c79ac5e89/cover.0",
+        "bytes": 20495,
+        "sha": "13cb9c6450dcd10ceafb175957d9818bbfecea10"
+      }
+    ]
+  }
+}
