@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "4fb4897a-7b4d-4b72-ac0e-ac76d9927426",
+  "media": {
+    "name": "Jagath Jala palam | Shree Hari Stotram.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 19449031,
+    "sha256": "bf4cfa91761073eeeef868b5410e33832e401aa85d04ac248e5fda874598de99",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/4f/4fb4897a-7b4d-4b72-ac0e-ac76d9927426/media.0",
+        "bytes": 19449031,
+        "sha": "fcdec0ce19e9f8c1bfda43ed3b06aa3409ac0c53"
+      }
+    ]
+  }
+}
