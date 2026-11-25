@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "efde9f75-3cd4-4cf4-9f4c-56f6183fbb6b",
+  "media": {
+    "name": "01 - Enduko Emo - SenSongsmp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 5422236,
+    "sha256": "11e6d6d37956a6c622cbaae412e5f7d577f66c5ca4fcf04a961c49c9b6e97207",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/ef/efde9f75-3cd4-4cf4-9f4c-56f6183fbb6b/media.0",
+        "bytes": 5422236,
+        "sha": "6dfe303fe5bd4f6d0a9759ca83d2085a104c69ca"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 97644,
+    "sha256": "88a5caae6a492904ba64214971ba1c9c46ee5ce487ddeae54ca7eb8d9efd4c5a",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/ef/efde9f75-3cd4-4cf4-9f4c-56f6183fbb6b/cover.0",
+        "bytes": 97644,
+        "sha": "eaa5f984cc01c42673bf79c804834e5c611e4adc"
+      }
+    ]
+  }
+}
