@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "535240e9-2ce4-4906-9ef8-6600c6486d87",
+  "media": {
+    "name": "6-Rooba Rooba-SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 5136857,
+    "sha256": "e530e20dfc648206d94aa2a2a35fccf5f00df0275d4b0250f7ceb198a999fa13",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/53/535240e9-2ce4-4906-9ef8-6600c6486d87/media.0",
+        "bytes": 5136857,
+        "sha": "9c4c89e1113fa267960bda710d5e5915affaeb3d"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 104935,
+    "sha256": "82e4c05e03a4dbcf6bda5918e9ca73ec97ab6174c8302ab8d610bd3c3e3fbb36",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/53/535240e9-2ce4-4906-9ef8-6600c6486d87/cover.0",
+        "bytes": 104935,
+        "sha": "937edf6309c82469a6be9229ab877668776725d3"
+      }
+    ]
+  }
+}
