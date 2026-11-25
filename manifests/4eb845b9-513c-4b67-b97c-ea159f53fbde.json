@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "trackId": "4eb845b9-513c-4b67-b97c-ea159f53fbde",
+  "media": {
+    "name": "01 - Edo Oka Ragam (Male) - SenSongsMp3.Co.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 4797378,
+    "sha256": "1f406df916fb8df1461fda2b8bccd37f7c2ec53101368183142dd13f1427387a",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "music-library-favourites",
+        "path": "data/4e/4eb845b9-513c-4b67-b97c-ea159f53fbde/media.0",
+        "bytes": 4797378,
+        "sha": "19b964cd63d50b859a58400f630fef5bcb0c2077"
+      }
+    ]
+  }
+}
